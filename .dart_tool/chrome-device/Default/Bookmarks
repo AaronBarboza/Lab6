@@ -1,0 +1,140 @@
+{
+   "checksum": "26df4a1012c3bc00cfb37a6ad35fed38",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13254811847814664",
+            "date_last_used": "13344673707915952",
+            "guid": "2b2e1fc7-7b59-47f8-8631-f388d381767f",
+            "id": "17",
+            "name": "Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13254811847816304",
+            "date_last_used": "0",
+            "guid": "56c553c7-6524-46e9-abd6-c3f27f7370bd",
+            "id": "18",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13254811847817477",
+            "date_last_used": "0",
+            "guid": "02180da8-62ba-43a0-bc4b-9d629b6f98ee",
+            "id": "19",
+            "name": "Maps",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13298836102394249",
+            "date_last_used": "0",
+            "guid": "361a1246-f43c-433c-98d7-9a796c3868d3",
+            "id": "20",
+            "name": "Experiments",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "chrome://flags/#PasswordExport"
+         }, {
+            "date_added": "13318747409719379",
+            "date_last_used": "13340464465895467",
+            "guid": "5196ebcd-d914-41bb-96eb-e53e40be2aec",
+            "id": "21",
+            "name": "Instagram",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.instagram.com/"
+         }, {
+            "date_added": "13328209167400991",
+            "date_last_used": "13357923105571949",
+            "guid": "d44fe659-8b88-4b96-933a-2618677521b1",
+            "id": "22",
+            "name": "Bus Ticket Form.",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://chat.openai.com/"
+         }, {
+            "date_added": "13359227312084734",
+            "date_last_used": "0",
+            "guid": "3df96adf-67d0-406b-9f08-8d0c8b86143d",
+            "id": "9",
+            "name": "Express VPN",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge"
+         }, {
+            "date_added": "13359227312084580",
+            "date_last_used": "0",
+            "guid": "369dc912-5dfc-4de9-a231-11ad26b0b6a2",
+            "id": "8",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html"
+         }, {
+            "date_added": "13359227312083238",
+            "date_last_used": "0",
+            "guid": "eb19a3a0-90ea-4aca-9131-9f4481f95488",
+            "id": "7",
+            "name": "LastPass password manager",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=lastpass&c=231&locale=*&pf=*&tp=edge&TYPE=3"
+         } ],
+         "date_added": "13359227311686837",
+         "date_last_used": "0",
+         "date_modified": "13359832551680301",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13359227311686841",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Otros favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13225478254313108",
+            "date_last_used": "0",
+            "guid": "4ccfcb78-9196-4a19-ac65-04d1216ed7ae",
+            "id": "16",
+            "name": "Nueva pestaña",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "chrome-native://newtab/"
+         } ],
+         "date_added": "13359227311686847",
+         "date_last_used": "0",
+         "date_modified": "13225478254313108",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos móviles",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCCrGX2GPAQAAEgAqGCt2OHhFaDFDMXdIZ3d5S3ljLytYbkE9PUgDoAYMEqcBCBQSogEKHDh2eEswMVd6NlFjbUkzMlRWOVhMVUx5cmdKMD0SJDM2MWExMjQ2LWY0M2MtNDMzYy05OGQ3LTlhNzk2YzM4NjhkMxgAIAAoADDXv/Wg4DA4q8H1oOAwQKvB9aDgMEocMytRTWxKZXhsVXI2UHNqY1JQVTZrbUR4UjRVPVoeIhx4dTY0bDR2YjEwMkdhR1Q2LzhTWW1KUEFvemM9ZQAAAAASqAEIFRKjAQocZTgxeVFnQk5KRXRFVnhvb1R0VzgyTlQ4ZExFPRIkNTE5NmViY2QtZDkxNC00MWJiLTk2ZWItZTUzZTQwYmUyYWVjGAAgAigCMPWj/or2MTiMwfWg4DBA/pL+ivYxShxsUVFVUjkwWE9DV05TaC9aYWJLejlmZEZHUkU9Wh8iHbx4SGdtWjcrZStKZW9vTzViVTJPaDNEaXFNazQ9ZbbRMeISpwEIERKiAQoca3RDS0JNd0VQdEluWmw0SlMxazkxOS8xZjlvPRIkMmIyZTFmYzctN2I1OS00N2Y4LTg2MzEtZjM4OGQzODE3NjdmGAAgAigCMPej/or2MTjtwPWg4DBA+pL+ivYxShxFaTlDUTlaU2NHdTlGMEN2dlR3bm54RVBtTHc9Wh4iHEY0OVpkZnZaRTJ0aUVPdWJUTStVWkRWRDcrTT1lmz2FthKnAQgSEqIBChwzQkFjVlRURjc5QVRZYlRBSkFTbXdTSjBuTkU9EiQ1NmM1NTNjNy02NTI0LTQ2ZTktYWJkNi1jM2YyN2Y3MzcwYmQYACACKAIw9qP+ivYxOL7A9aDgMED6kv6K9jFKHFRNNDJ3MTZ1bmFRL3pyZk5vYWFuR3NCSENnbz1aHiIcUStrYmVHMzV0ZlN0U3hsbE5BMFd6ME83NDdBPWU4+TkzEqgBCBYSowEKHHA2M2FkT1VGcklkdVI0ajRDZlJXUGJ5RUJwYz0SJGQ0NGZlNjU5LThiODgtNGI5Ni05MzNhLTI2MTg2Nzc1MjFiMRgAIAIoAjD4o/6K9jE4isrXs4AxQP6S/or2MUocOE9OWTQzRzdOUUcwNWo1ZDBwVHE0TU90cDBRPVofIh3eMUdmaEVTRWwzdGh4SjF3bklMbHpTZXhzV3FBPWVpGyLzEokBCAEShAEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJGJkZjRmMDU3LWVlNWItNTgyNC1hYTBmLWEyNDkxMWU2YzAzORgAIAAoADDmjLPCsTA447+6ofcvQOO/uqH3L0ocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkMGQ0YTFjZGQtZWUzZC01MmVlLTk5M2ItMDhhYTY4M2VjMDE5GAAgACgAMOaMs8KxMDikv7qh9y9ApL+6ofcvShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKnAQgQEqIBChxJd0EyeHFoVks0QzZ4LzczMG1LM2JTNUNnMkk9EiQ0Y2NmY2I3OC05MTk2LTRhMTktYWM2NS0wNGQxMjE2ZWQ3YWUYACAAKAAw07/1oOAwOJ7A9aDgMECewPWg4DBKHEZYcVVFV29FOURIL3BxbTBLbWhzTGludXZkUT1aHiIcWkpNNDlGRFo5RTBtdUVpalpQMkgvRk9XaDA0PWUAAAAAEqcBCBMSogEKHFRHZjhTOEpHWXFkRmRTSzFPbXMrYzlWcngwVT0SJDAyMTgwZGE4LTYyYmEtNDNhMC1iYzRiLTlkNjI5YjZmOThlZRgAIAIoAjD0o/6K9jE4j8D1oOAwQPqS/or2MUocYW9BVlJRNnQ0dWdER1YzT1ZHV1ZKOUdRUEFZPVoeIhxUSHIrQnRRMkQ3cTF6ZFdIM0JqSlRnYTRjNmc9ZT1shRESiQEIAxKEAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkY2ZjNmIxNjMtYjVmZC01MDRlLWFlMzAtY2NlNTY3ZWJkNTM0GAAgACgAMOaMs8KxMDiRwLqh9y9AkcC6ofcvShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAADAAOAA=",
+   "version": 1
+}

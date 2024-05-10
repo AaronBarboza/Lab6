@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1002948662379",
+    "firebase_url": "https://login-88211-default-rtdb.firebaseio.com",
+    "project_id": "login-88211",
+    "storage_bucket": "login-88211.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002948662379:android:c3f5071491930b6a2d4d2e",
+        "android_client_info": {
+          "package_name": "com.example.smart_admin_dashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBesXABzgwwUIlyAK6tkpPY3PRzzb5nYSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
